@@ -12,4 +12,4 @@
 module load bioinfo-tools
 module load trimmomatic
 
-trimmomatic PE -phred33 /home/vendz/genomeanalysis/1_Zhang_2017/genomics_data/Illumina/E745-1.L500_SZAXPI015146-56_1_clean.fq.gz /home/vendz/genomeanalysis/1_Zhang_2017/genomics_data/Illumina/E745-1.L500_SZAXPI015146-56_2_clean.fq.gz /home/vendz/genomeanalysis/Trimmomatic_Results/56_1_p1.fq /home/vendz/genomeanalysis/Trimmomatic_Results/56_1_s1.fq /home/vendz/genomeanalysis/Trimmomatic_Results/56_2_p1.fq /home/vendz/genomeanalysis/Trimmomatic_Results/56_2_s1.fq ILLUMINACLIP:TrueSeq3-PE.fa LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36  
+trimmomatic PE -phred33 /home/vendz/genomeanalysis/1_Zhang_2017/genomics_data/Illumina/E745-1.L500_SZAXPI015146-56_1_clean.fq.gz /home/vendz/genomeanalysis/1_Zhang_2017/genomics_data/Illumina/E745-1.L500_SZAXPI015146-56_2_clean.fq.gz /home/vendz/genomeanalysis/Trimmomatic_Results/56_1_paired1.fq /home/vendz/genomeanalysis/Trimmomatic_Results/56_1_single1.fq /home/vendz/genomeanalysis/Trimmomatic_Results/56_2_paired1.fq /home/vendz/genomeanalysis/Trimmomatic_Results/56_2_single1.fq TRAILING:36 LEADING:36 
