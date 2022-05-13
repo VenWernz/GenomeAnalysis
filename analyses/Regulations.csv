@@ -1,0 +1,21 @@
+Regulation,locus_tag,gene,product,log2FoldChange
+Upregulated,LBEDEJHI_01453,purC,Phosphoribosylaminoimidazole-succinocarboxamide synthase,8.99408010525377
+Upregulated,LBEDEJHI_01454,purS,Phosphoribosylformylglycinamidine synthase subunit PurS,9.37373831944904
+Upregulated,LBEDEJHI_01455,purQ,Phosphoribosylformylglycinamidine synthase subunit PurQ,9.16328842785723
+Upregulated,LBEDEJHI_01456,purL,Phosphoribosylformylglycinamidine synthase subunit PurL,8.91747460455664
+Upregulated,LBEDEJHI_01457,purF,Amidophosphoribosyltransferase,8.78888645687264
+Upregulated,LBEDEJHI_01458,purM,Phosphoribosylformylglycinamidine cyclo-ligase,8.40127005652037
+Upregulated,LBEDEJHI_01459,purN,Phosphoribosylglycinamide formyltransferase,8.08389049012049
+Upregulated,LBEDEJHI_01460,purH,Bifunctional purine biosynthesis protein PurH,8.31725825585191
+Upregulated,LBEDEJHI_01461,purD,Phosphoribosylamine--glycine ligase,8.27665310861421
+Upregulated,LBEDEJHI_01515,,hypothetical protein,7.74102528383315
+Downregulated,LBEDEJHI_00186,lacS,Lactose permease,-5.4284660919283
+Downregulated,LBEDEJHI_01203,acpA,Acyl carrier protein,-5.704303483624
+Downregulated,LBEDEJHI_01204,fabD,Malonyl CoA-acyl carrier protein transacylase,-5.64226821229193
+Downregulated,LBEDEJHI_01205,fabG_1,3-oxoacyl-[acyl-carrier-protein] reductase FabG,-5.49283531671007
+Downregulated,LBEDEJHI_01206,fabF,3-oxoacyl-[acyl-carrier-protein] synthase 2,-5.24806203815089
+Downregulated,LBEDEJHI_01207,accB,Biotin carboxyl carrier protein of acetyl-CoA carboxylase,-5.23110503377815
+Downregulated,LBEDEJHI_01208,fabZ_1,3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ,-5.35466656299864
+Downregulated,LBEDEJHI_01845,fruA_2,PTS system fructose-specific EIIABC component,-5.49905210622914
+Downregulated,LBEDEJHI_01846,lacC_2,Tagatose-6-phosphate kinase,-6.02925960700825
+Downregulated,LBEDEJHI_01847,glcR,HTH-type transcriptional repressor GlcR,-5.4134000225232
